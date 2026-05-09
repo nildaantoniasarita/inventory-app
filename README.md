@@ -101,7 +101,7 @@ git init
 
 # 2. Add all files to staging
 git add .
-
+ 
 # 3. First commit
 git commit -m "Initial commit: StockSense inventory app"
 
